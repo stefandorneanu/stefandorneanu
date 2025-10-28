@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Stefan Dorneanu
 
-<!--
-**stefandorneanu/stefandorneanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science & Automation Student (AC), UPB
 
-Here are some ideas to get you started:
+I am a passionate student at the University Politehnica of Bucharest, focusing on **Automation and Computer Science**. I am dedicated to building efficient solutions and am always eager to delve into complex systems and algorithmic thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Technical Stack
+
+Here are the languages and technologies I am currently focusing on:
+
+| Area | Technologies |
+| :--- | :--- |
+| **Core Languages** | Java, C |
+| **Interests** | Data Structures, Algorithms, Embedded Systems |
+
+### 🚀 Projects & Passions
+
+* Working on personal projects to apply my **Java** skills in application development and **C** skills in hardware interaction.
+* Interested in contributing to **Open Source** projects.
+
+---
+
+### 📧 Connect with Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/stefan-dorneanu-729a0b33a/][LinkedIn]
+* **Email:** [Your public email address, if desired]
