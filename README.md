@@ -24,5 +24,5 @@ Here are the languages and technologies I am currently focusing on:
 
 ### 📧 Connect with Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/stefan-dorneanu-729a0b33a/][LinkedIn]
-* **Email:** [Your public email address, if desired]
+* **LinkedIn:** [https://www.linkedin.com/in/stefan-dorneanu-729a0b33a/]
+* **Email:** [cdmail2012.cd@gmail.com]
