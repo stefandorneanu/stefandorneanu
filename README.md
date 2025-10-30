@@ -12,7 +12,7 @@ Here are the languages and technologies I am currently focusing on:
 
 | Area | Technologies |
 | :--- | :--- |
-| **Core Languages** | Java, C |
+| **Core Languages** | Java, C, C++ |
 | **Interests** | Data Structures, Algorithms, Embedded Systems |
 
 ### 🚀 Projects & Passions
